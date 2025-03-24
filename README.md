@@ -1,20 +1,15 @@
-# Smart Contact Manager (SCM-v1)
-
-## Overview
-
-
 # Smart Contact Manager (SCM01)
 
 ## Overview
 
-The **Smart Contact Manager** is a modern, web-based application designed to efficiently manage personal and professional contacts. It features an intuitive user interface, secure data handling, and responsive design to ensure smooth usage across various devices.
+The **Smart Contact Manager** is a modern, web-based application designed to manage personal and professional contacts efficiently. It features an intuitive user interface, secure data handling, and responsive design to ensure smooth usage across various devices.
 
 ---
 
 ## Features
 
 - **User-Friendly Interface** – Simplifies contact management through an intuitive design.
-- **CRUD Operations** – Create, Read, Update, and Delete contacts with ease.
+- **CRUD Operations** – Easily create, Read, Update, and Delete contacts.
 - **Advanced Search & Filters** – Locate specific contacts quickly using built-in filtering mechanisms.
 - **Secure Data Storage** – Integrated with Spring Security to ensure data privacy and integrity.
 - **Responsive Design** – Optimized for desktop, tablet, and mobile devices.
@@ -51,7 +46,7 @@ Copy
 Edit
 cd SCM01
 Configure the database
-Update the application.properties file located in src/main/resources/ with your MySQL or Oracle database credentials.
+Update the application.properties file in src/main/resources/ with your MySQL or Oracle database credentials.
 
 Build and run the project
 
