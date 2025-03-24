@@ -1,4 +1,4 @@
-# Smart Contact Manager (SCM01)
+# Smart Contact Manager (SCM-v1)
 
 ## Overview
 
